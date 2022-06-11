@@ -28,6 +28,4 @@ I am Caio
 - 📫 How to reach me: 
  caio.daniel.nunes.santos@gmail.com
 
-- 😄 Pronouns: Use any pronoun you like, anyone is good]
-
--
+- 😄 Pronouns: Use any pronoun you like, anyone is good
