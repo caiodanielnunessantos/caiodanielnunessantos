@@ -23,8 +23,6 @@ I am Caio
             <i class="devicon-cplusplus-plain colored"></i>
           by myself.
 
-- 💬 Ask me about anything
-
 - 📫 How to reach me: 
  caio.daniel.nunes.santos@gmail.com
 
