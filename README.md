@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ### Hi there 👋
-I am Caio. I am from Brazil ![🇧🇷](https://github.com/gosquared/flags/raw/master/flags/flags/flat/16/Brazil.png).
+I am Caio. I am a software development student from Brazil ![🇧🇷](https://github.com/gosquared/flags/raw/master/flags/flags/flat/16/Brazil.png).
 
-- 🌱 I’m currently learning Rust <i class="devicon-rust-plain colored"></i>
+- I’m currently learning Rust <i class="devicon-rust-plain colored"></i>
 
 - I have studied HTML 
             <i class="devicon-html5-plain colored"></i>
@@ -23,7 +23,6 @@ I am Caio. I am from Brazil ![🇧🇷](https://github.com/gosquared/flags/raw/m
             <i class="devicon-cplusplus-plain colored"></i>
           by myself.
 
-- 📫 How to reach me: 
- caio.daniel.nunes.santos@gmail.com
 
-- 😄 Pronouns: Use any pronoun you like, anyone is good
+ You can reach me at caio.daniel.nunes.santos@gmail.com
+
