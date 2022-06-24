@@ -1,9 +1,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### Hi there
-I am Caio. I am a software developer from Brazil ![🇧🇷](https://github.com/gosquared/flags/raw/master/flags/flags/flat/16/Brazil.png).
+## Hi there
 
-I am currenly looking for an internship or a job.
+### I am Caio. I am a software developer from Brazil ![🇧🇷](https://github.com/gosquared/flags/raw/master/flags/flags/flat/16/Brazil.png).
+
+### I am currenly looking for an internship or a job.
 
 - I’m currently learning Rust <i class="devicon-rust-plain colored"></i>
 
