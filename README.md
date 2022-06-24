@@ -17,7 +17,7 @@ I am currenly looking for an internship or a job.
             <i class="devicon-express-original colored"></i>
           and  React.js
             <i class="devicon-react-original colored"></i>
-          as a Full-Stack Web Development student at [Trybe](http://betrybe.com)
+          as a Full-Stack Web Development student at [Trybe](https://www.credential.net/profile/caiodanielnunessantos488633/wallet)
 
 - I have studied C
             <i class="devicon-c-plain colored"></i>
