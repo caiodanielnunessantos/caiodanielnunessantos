@@ -44,5 +44,5 @@ to test our code using [Jest](https://jestjs.io/) and [Mocha](https://mochajs.or
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
- You can reach me at caio.daniel.nunes.santos@gmail.com
+Wanna get in touch? Please head to caio.daniel.nunes.santos@gmail.com
 
