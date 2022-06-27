@@ -4,8 +4,6 @@
 
 ### I am Caio. I am a software developer from Brazil ![🇧🇷](https://github.com/gosquared/flags/raw/master/flags/flags/flat/16/Brazil.png).
 
-### I am currenly looking for an internship or a job.
-
 I have studied [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
           , [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
           , [NodeJS](https://nodejs.org/) 
@@ -22,12 +20,12 @@ I have studied [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 At [Trybe](https://www.credential.net/profile/caiodanielnunessantos488633/wallet) we also learned
 to use [MySQL](https://www.mysql.com/) (raw queries and [Sequelize](https://sequelize.org/) library)
 and [MongoDB](https://www.mongodb.com/) databases along with full-stack apps.
-          
-And we learned to test our code using [Jest](https://jestjs.io/) and [Mocha](https://mochajs.org/)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+          
+And we learned to test our code using [Jest](https://jestjs.io/) and [Mocha](https://mochajs.org/)
           
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -46,6 +44,8 @@ I’m currently learning [Rust](https://www.rust-lang.org/) and [PHP](https://ww
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### I am currenly looking for an internship or a job.
 
 Wanna get in touch? Please head to caio.daniel.nunes.santos@gmail.com
 
