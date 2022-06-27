@@ -1,30 +1,47 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 ## Hi there
 
 ### I am Caio. I am a software developer from Brazil ![🇧🇷](https://github.com/gosquared/flags/raw/master/flags/flags/flat/16/Brazil.png).
 
 ### I am currenly looking for an internship or a job.
 
-- I’m currently learning Rust <i class="devicon-rust-plain colored"></i>
+- I’m currently learning [Rust](https://www.rust-lang.org/) and [PHP](https://www.php.net/)
 
-- I have studied HTML 
-            <i class="devicon-html5-plain colored"></i>
-          , CSS 
-            <i class="devicon-css3-plain colored"></i>
-          , NodeJS 
-            <i class="devicon-nodejs-plain colored"></i>
-          , Express.js 
-            <i class="devicon-express-original colored"></i>
-          and  React.js
-            <i class="devicon-react-original colored"></i>
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+- I have studied [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+          , [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+          , [NodeJS](https://nodejs.org/) 
+          , [Express.js](https://expressjs.com/)
+          and  [React.js](https://reactjs.org/)
           as a Full-Stack Web Development student at [Trybe](https://www.credential.net/profile/caiodanielnunessantos488633/wallet)
+     
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-- I have studied C
-            <i class="devicon-c-plain colored"></i>
-          and C++
-            <i class="devicon-cplusplus-plain colored"></i>
+- At [Trybe](https://www.credential.net/profile/caiodanielnunessantos488633/wallet) we also learned
+to use [MySQL](https://www.mysql.com/) (raw queries and [Sequelize](https://sequelize.org/) library)
+and [MongoDB](https://www.mongodb.com/) databases and
+to test our code using [Jest](https://jestjs.io/) and [Mocha](https://mochajs.org/)
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+- I have studied
+          [Python](https://www.python.org/),
+          [C](https://www.iso.org/standard/74528.html)
+          and [C++](https://www.iso.org/standard/79358.html)
           by myself.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
  You can reach me at caio.daniel.nunes.santos@gmail.com
