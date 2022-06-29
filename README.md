@@ -26,7 +26,7 @@ como aluno do Curso de Desenvolvimento Web Full-Stack da
 
 Na [Trybe](https://www.credential.net/profile/caiodanielnunessantos488633/wallet), também aprendemos
 a usar as bases de dados [MySQL](https://www.mysql.com/)
-(consultas diretas e, também, usando a biblioteca [Sequelize](https://sequelize.org/))
+(consultas diretas e, também, usando a biblioteca ORM [Sequelize](https://sequelize.org/))
 e [MongoDB](https://www.mongodb.com/) em APIs executadas pelo Back-End.
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
