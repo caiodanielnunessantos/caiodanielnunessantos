@@ -8,6 +8,8 @@
 
 Você pode falar comigo pelo email caio.daniel.nunes.santos@gmail.com
 
+### Meus aprendizados até o momento
+
 Estudei [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 , [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 , [NodeJS](https://nodejs.org/) 
