@@ -48,9 +48,11 @@ por conta própria.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-Atualmente, estou aprendendo [Rust](https://www.rust-lang.org/) e [PHP](https://www.php.net/)
+Atualmente, estou aprendendo [Rust](https://www.rust-lang.org/), [PHP](https://www.php.net/) e
+[TypeScript](https://www.typescriptlang.org/)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
