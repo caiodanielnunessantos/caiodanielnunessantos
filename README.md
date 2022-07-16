@@ -32,6 +32,8 @@ e [MongoDB](https://www.mongodb.com/) em APIs executadas pelo Back-End.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
           
 Também aprendemos a testar nosso código usando [Jest](https://jestjs.io/) e [Mocha](https://mochajs.org/)
           
@@ -54,5 +56,7 @@ Atualmente, estou aprendendo [Rust](https://www.rust-lang.org/), [PHP](https://w
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+My colors: 0xff0000 0xffa500 0xffff00 0x008000 0x0000ff, 0x800080
 
 </div>
